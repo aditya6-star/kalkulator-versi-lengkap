@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="kalkulatorr1.jnlp">
+    <information>
+        <title>kalkulatorr1</title>
+        <vendor>ACER</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="11.0.8+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="kalkulatorr1.jar" size="4197" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="kalkulatorr1.Kalkulatorr1" name="Kalkulatorr1"/>
+</jnlp>
+
